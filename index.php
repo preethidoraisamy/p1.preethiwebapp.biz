@@ -4,6 +4,7 @@
 	<meta charset='utf-8'>
 	<meta name="description" content="Dynamic programming Project 1">
 	<link href="styles/MainStyle.css" rel="stylesheet" type="text/css">
+	<title>Project 1</title>
 </head>
 
 <body>
