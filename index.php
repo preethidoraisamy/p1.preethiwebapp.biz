@@ -3,22 +3,23 @@
 <head>
 	<meta charset='utf-8'>
 	<meta name="description" content="Dynamic programming Project 1">
-	<link href="styles/MainStyle.css" rel="stylesheet" type="text/css">
-	<title>Project 1</title>
+	<link href="StyleSheets/MainStyle.css" rel="stylesheet" type="text/css">
 </head>
 
 <body>
 <div id="MainDiv">
+	<!-- Introduction about the Porject -->
 	<div class="introPanel">
 		<h3>Preethi Doraisamy</h3>
 		<h4>CSCI E-15 Dynamic Web Applications</h4>
 		<h4>Project 1</h4>
-		
 	</div>
+	<!-- About me section -->
 	<div class="aboutPanel">
 		<h3>About Me</h3>
 		<p>Hey, This is Preethi Doraisamy, working as a .Net developer for Cloud based application. I did my Bachelors in Computer Science, and now a virtual student in this course. I like to say "My hobbies include Knitting, Gardening, Reading, Cooking, etc,." but Seasonal</p>
 	</div>
+	<!-- Skill sets and Editor -->
 	<div class="softwarePanel">
 		<p> I have used SubLime editor for this project
 		</p>
