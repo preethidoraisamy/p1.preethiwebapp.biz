@@ -3,7 +3,7 @@
 <head>
 	<meta charset='utf-8'>
 	<meta name="description" content="Dynamic programming Project 1">
-	<link href="StyleSheets/MainStyle.css" rel="stylesheet" type="text/css">
+	<link href="styles/MainStyle.css" rel="stylesheet" type="text/css">
 </head>
 
 <body>
